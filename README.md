@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZkNmVjOTcxOWxzM2Z0ZDN4dWV0aHBkcm5maGIyY2dtZ3o3YW05NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WjEkuKZaMvofO08L3y/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh5YWUzMnVmdW4zbHdvbGJxeWIzYzJmb3MxcXZqY3dpenVtaHdpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JizWpvUBDYgKV6oYwE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif.
