@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://s8.ezgif.com/tmp/ezgif-864093ffedddd7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh5YWUzMnVmdW4zbHdvbGJxeWIzYzJmb3MxcXZqY3dpenVtaHdpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JizWpvUBDYgKV6oYwE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif.
